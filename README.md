@@ -11,8 +11,8 @@ height, and weight. The app displays the BMI result.
 
 ## 🏠 Home Screen
 
-![Image](https://github.com/user-attachments/assets/2ced457b-98bc-482f-a855-6165dae6d7b9)
+<img src="[image link](https://github.com/user-attachments/assets/2ced457b-98bc-482f-a855-6165dae6d7b9)" width="300" height="600" />
 
 ## 📊 Result Screen
 
-![Image](https://github.com/user-attachments/assets/fc19a2d2-eeba-4a58-bd62-79364d2036f0)
+<img src="[image link](https://github.com/user-attachments/assets/fc19a2d2-eeba-4a58-bd62-79364d2036f0)" width="300" height="600" />
